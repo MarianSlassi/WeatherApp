@@ -1,0 +1,3 @@
+.venv # To avoid adding env to git
+.env
+__pycache__
